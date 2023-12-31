@@ -2,7 +2,7 @@
 
     @reduxjs/toolkit
     react-redux
-    thunk (toolkitin yanında geliyor)
+    thunk 
     axios
     leaflet
     react-leaflet
