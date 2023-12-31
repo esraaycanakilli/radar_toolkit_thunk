@@ -26,3 +26,5 @@
 
     Toolkit Kurulum
 # radar_toolkit_thunk
+
+![](Animation.gif)
